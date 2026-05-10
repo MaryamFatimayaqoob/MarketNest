@@ -28,7 +28,7 @@ body {
 }
 
 .swal-button--confirm {
-    background-color: #411a1e !important;
+    background-color: #dc3545 !important;
     border-color: #dc3545 !important;
 }
 
@@ -36,7 +36,7 @@ body {
 .swal-button--confirm:active,
 .show>.swal-button--confirm.dropdown-toggle,
 .swal-button--confirm:hover {
-    background-color: #105816 !important;
+    background-color: #b02a37 !important;
     border-color: #a52834 !important;
     color: #fff;
 }
@@ -106,7 +106,7 @@ body {
 }
 
 .swal-button--confirm {
-    background-color: #50151b !important;
+    background-color: #dc3545 !important;
     border-color: #dc3545 !important;
 }
 
@@ -114,7 +114,7 @@ body {
 .swal-button--confirm:active,
 .show>.swal-button--confirm.dropdown-toggle,
 .swal-button--confirm:hover {
-    background-color: #104915 !important;
+    background-color: #b02a37 !important;
     border-color: #a52834 !important;
     color: #fff;
 }
